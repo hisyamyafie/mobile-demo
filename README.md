@@ -39,7 +39,7 @@ Kelas 2E
 5.
 6. 361955401127 - Azizi Novan Maulana
 7. 361955401128 - Refki Berga Fortuna
-8.
+8. 361955401132 - Sella Metnanda Arbeliaharisti
 9. 361955401131 - Yusuf Farhan Nurrahman
 10. 361955401135 – Alifia helda Cahyani
 11. 361955401136 - Firman Fauzy
