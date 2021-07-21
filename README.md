@@ -77,4 +77,5 @@ Kelas 2F
 18. 361955401166 - Muhamad Nusayif Jassim
 19. 361955401159 - Diana Fitri Nuryanti
 20. 361955401174 - M Erdin Kurniawan
+21. 361955401164 - Tresya Aisiyiah
 
