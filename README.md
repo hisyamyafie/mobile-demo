@@ -47,7 +47,7 @@ Kelas 2E
 14. 361955401139 - Nurul Huda Saputra
 15.
 16.
-17.
+17. 361955401145 - Windhu Aji Wicaksono
 18. 361955401144 - Lutfi Filaily Asrofi
 19. 361955401146 - Mimin Lestari
 20. 361955401147 - Ade Firman Pratama
