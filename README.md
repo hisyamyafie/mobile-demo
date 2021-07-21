@@ -14,7 +14,7 @@ Kelas 2D
 8. 361955401099 - Tedi Ahmad Barkah 
 9. 
 10. 361955401101 - Maldini Dwi Putra 
-11.
+11. 361955401102 - Nurul Hidayati Novitasari
 12. 361955401103 - Putri Aliyya Wildhani 
 13. 361955401105 - Denny Indra Irawan
 14
