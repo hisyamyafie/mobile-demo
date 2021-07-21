@@ -34,7 +34,7 @@ Kelas 2E
 17.
 18. 361955401144 - Lutfi Filaily Asrofi
 19. 361955401146 - Mimin Lestari
-20. 361955401147 - Ade firman Pratama
+20. 361955401147 - Ade Firman Pratama
 21. 361955401148 - In Ainatul Muniroh
 22.
 23.
