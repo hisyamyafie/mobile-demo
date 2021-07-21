@@ -26,7 +26,7 @@ Kelas 2D
 20.
 21. 361955401112 - Muhammad Arif Purnama Aji 
 22. 
-23. 
+23. 361955401114 - Nella Bidayatus Sa'adah
 24. 361955401115 - M Arsya Pratama
 
 Kelas 2E
