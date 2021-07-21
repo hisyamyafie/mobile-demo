@@ -69,7 +69,7 @@ Kelas 2F
 10. 361955401153 - hilmi bakhtiar
 11. 361955401170 - Nataryn Silkynta Wiridilla Malawangi
 12. 361955401151 - Anisya Mega Rifdianaa
-13. 361955401161 - Via Antikaa
+13. 361955401161 - Via Antika
 14. 361955401165 - Erica Septiyana
 15. 361955401156 - Niko Andrianto
 16. 361955401173 - Aldy Chezar Mahendra
