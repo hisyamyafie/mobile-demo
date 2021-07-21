@@ -76,4 +76,5 @@ Kelas 2F
 17. 361955401169 - Elan Tri Wahyudi
 18. 361955401166 - Muhamad Nusayif Jassim
 19. 361955401159 - Diana Fitri Nuryanti
+20. 
 
