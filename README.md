@@ -52,7 +52,7 @@ Kelas 2E
 19. 361955401146 - Mimin Lestari
 20. 361955401147 - Ade Firman Pratama
 21. 361955401148 - In Ainatul Muniroh
-22.
+22. 361955401149 - Mohammad Noval Dinda Firdaus
 23.
 
 Kelas 2F
