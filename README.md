@@ -79,4 +79,5 @@ Kelas 2F
 20. 361955401174 - M Erdin Kurniawan
 21. 361955401164 - Tresya Aisiyiah
 22. 361955401163 - Ledy Intan Liuni
+23. 361955401162 - Dema Maha Arfifah
 
