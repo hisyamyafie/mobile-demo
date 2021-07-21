@@ -7,7 +7,7 @@ Kelas 2D
 1. 361955401091 - Hadi Rizaldi Rahmanto
 2. 361955401092 - Mei Nurfatdilah 
 3. 361955401093 - Latiful Kamal
-4. 
+4. 361955401094 - Erisa Zahra Dina
 5.  
 6. 361955401096 - Kakung Sanjaya
 7. 361955401097 - Dino Alwi Patriardi 
