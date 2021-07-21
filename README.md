@@ -6,7 +6,7 @@ Kelas 2D
 
 1.361955401091 - Hadi Rizaldi Rahmanto
 2.361955401092 - Mei Nurfatdilah 3. 4. 5. 6.
-7.361955401097 - Dino Alwi Patriardi 8. 9. 10. 361955401101 - Maldini Dwi Putra 11.
+7.361955401097 - Dino Alwi Patriardi 8. 361955401099 - Tedi Ahmad Barkah 9. 10. 361955401101 - Maldini Dwi Putra 11.
 12.361955401103 - Putri Aliyya Wildhani 13. 361955401105 - Denny Indra Irawan
 14
 15
