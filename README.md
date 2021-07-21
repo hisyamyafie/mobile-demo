@@ -4,14 +4,30 @@ Flutter project.
 
 Kelas 2D
 
-1.361955401091 - Hadi Rizaldi Rahmanto
-2.361955401092 - Mei Nurfatdilah 3. 4. 5. 6.
-7.361955401097 - Dino Alwi Patriardi 8. 361955401099 - Tedi Ahmad Barkah 9. 10. 361955401101 - Maldini Dwi Putra 11.
-12.361955401103 - Putri Aliyya Wildhani 13. 361955401105 - Denny Indra Irawan
+1. 361955401091 - Hadi Rizaldi Rahmanto
+2. 361955401092 - Mei Nurfatdilah 
+3. 361955401093 - Latiful Kamal
+4. 
+5.  
+6. 
+7. 361955401097 - Dino Alwi Patriardi 
+8. 361955401099 - Tedi Ahmad Barkah 
+9. 
+10. 361955401101 - Maldini Dwi Putra 
+11.
+12. 361955401103 - Putri Aliyya Wildhani 
+13. 361955401105 - Denny Indra Irawan
 14
 15
-16 17. 18. 19. 20.
-21.361955401112 - Muhammad Arif Purnama Aji 22. 23. 25. 26.
+16 
+17. 
+18.  
+19. 
+20.
+21. 361955401112 - Muhammad Arif Purnama Aji 
+22. 
+23. 
+24. 
 
 Kelas 2E
 
@@ -28,7 +44,7 @@ Kelas 2E
 11. 361955401136 - Firman Fauzy
 12. 361955401137 - Bharamiyati Athalas Bharka
 13. 361955401138 - Femas Febriano
-14. 361955401139 - Nurul Huda saputra
+14. 361955401139 - Nurul Huda Saputra
 15.
 16.
 17.
