@@ -33,7 +33,7 @@ Kelas 2D
 Kelas 2E
 
 1.
-2.
+2. 361955401123 - Niken Precilia
 3.
 4. 361955401125 - Dwi Uswatun Khasanah
 5.
