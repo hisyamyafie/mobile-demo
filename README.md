@@ -28,7 +28,7 @@ Kelas 2E
 11. 361955401136 - Firman Fauzy
 12. 361955401137 - Bharamiyati Athalas Bharka
 13. 361955401138 - Femas Febriano
-14.
+14. 361955401139 - Nurul Huda Saputra
 15.
 16.
 17.
