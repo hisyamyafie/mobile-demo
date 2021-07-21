@@ -9,7 +9,7 @@ Kelas 2D
 3. 361955401093 - Latiful Kamal
 4. 
 5.  
-6. 
+6. 361955401096 - Kakung Sanjaya
 7. 361955401097 - Dino Alwi Patriardi 
 8. 361955401099 - Tedi Ahmad Barkah 
 9. 
