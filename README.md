@@ -16,7 +16,7 @@ Kelas 2D
 10. 361955401101 - Maldini Dwi Putra
 11.
 12.361955401103 - Putri Aliyya Wildhani
-13.
+13. 361955401105 - Denny Indra Irawan
 14
 15
 16
