@@ -33,7 +33,7 @@ Kelas 2E
 
 1. 361955401122 - Vicktor Simanjuntak
 2. 361955401123 - Niken Precilia
-3.
+3. 361955401124 - Galuh Kurniawan
 4. 361955401125 - Dwi Uswatun Khasanah
 5.
 6. 361955401127 - Azizi Novan Maulana
