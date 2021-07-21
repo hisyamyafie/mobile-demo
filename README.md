@@ -25,7 +25,7 @@ Kelas 2D
 19. 361955401110 - Toni Ariyanto
 20.
 21. 361955401112 - Muhammad Arif Purnama Aji 
-22. 
+22. 361955401113 - Dewinta Dinda Prastika
 23. 361955401114 - Nella Bidayatus Sa'adah
 24. 361955401115 - M Arsya Pratama
 
