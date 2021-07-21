@@ -80,4 +80,5 @@ Kelas 2F
 21. 361955401164 - Tresya Aisiyiah
 22. 361955401163 - Ledy Intan Liuni
 23. 361955401162 - Dema Maha Arfifah
-
+24. 361955401176 - Achmad Kiki Karisma
+25. 361955401167 - Sara Dara Habibah
