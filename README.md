@@ -22,7 +22,7 @@ Kelas 2D
 16 
 17. 
 18.  
-19. 
+19. 361955401110 - Toni Ariyanto
 20.
 21. 361955401112 - Muhammad Arif Purnama Aji 
 22. 
